@@ -1,0 +1,4 @@
+{
+    "openaiApiKey": "openai-key-here",
+    "port": 5000
+}
